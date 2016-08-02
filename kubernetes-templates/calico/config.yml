@@ -1,0 +1,8 @@
+name: Calico CNI Plugin
+description: |
+  This catalog provides the Calico CNI plugin for use with Kubernetes on Rancher
+version: v1
+category: Networking
+maintainer: leodotcloud@gmail.com
+license: Apache
+projectURL: https://www.projectcalico.org
